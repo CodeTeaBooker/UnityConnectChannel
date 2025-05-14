@@ -24,7 +24,6 @@
 * [Supported Event Types](#supported-event-types)
 * [Creating Custom Event Types](#creating-custom-event-types)
 * [Demo](#demo)
-* [Contributing](#contributing)
 * [License](#license)
 
 ## Overview
@@ -235,19 +234,6 @@ The included demo scene (`Assets/DevToolKit/Demos/DemoScene.unity`) demonstrates
 * Debug logging capabilities.
 
 The `DemoScript.cs` and `UIManager.cs` files in `Assets/DevToolKit/Demos/Scripts/` provide practical examples of publishing and subscribing to events.
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute, please follow these steps:
-
-1.  Fork the repository.
-2.  Create a new branch (`git checkout -b feature/AmazingFeature`).
-3.  Make your changes.
-4.  Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-5.  Push to the branch (`git push origin feature/AmazingFeature`).
-6.  Open a Pull Request.
-
-Please ensure your code adheres to the existing style and that any new features are well-tested.
 
 ## License
 
